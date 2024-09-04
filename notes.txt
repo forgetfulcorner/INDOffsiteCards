@@ -1,0 +1,10 @@
+// 1-6M : YEARS 1.png
+// 7-12M : YEARS 2.png
+// 1+ Year : YEARS 3.png
+// 2+ Years : YEARS 4.png
+// 3+ Years : YEARS 5.png
+// 4+ Years : YEARS 6.png
+// 5-6+ Years : YEARS 7.png
+// 7+ Years : YEARS 8.png
+// 8+ Years : YEARS 9.png
+// Founders : YEARS 10.png
