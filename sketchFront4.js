@@ -13,7 +13,9 @@ function saveAllEntries() {
 				displayCurrentEntry(); // Display the entry to ensure the canvas is updated
 
 				// Generate a filename for the entry
-				let fileName = `${restOfNames[i]}_${firstNames[i]}_Front.png`;
+				let fileName = `${restOfNames[i]}_${firstNames[i]}_Front_${
+					currentIndex + 1
+				}.png`;
 				saveCanvas(fileName); // Save the canvas with the generated filename
 
 				i++; // Move to the next index
