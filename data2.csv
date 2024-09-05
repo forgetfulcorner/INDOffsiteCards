@@ -1,30 +1,30 @@
-First Name,Last Name,Title,Department,Pronouns,Location,Duration,Task Force,Team Name,Code Name,Image Filename,NAE/NAW,NAC
-Jen,Kelmer,"DIRECTOR, LEARNING, TALENT & CULTURE",Unit Ops,she/her,Tampa,2,Eagle Force,No Team Name,No Code Name,Kelmer_Jen.png,NAE,OPERATE
-Rachel,Broder,"Interim Head Of People",People,she/her,NYC,4,Cobra Force,No Team Name,No Code Name,Broder_Rachel.png,NAE,DIRECT
-Daniel,du Moulin,"General Manager",Unit Ops,he/him,Atlanta,3,Eagle Force,No Team Name,No Code Name,du Moulin_Daniel.png,NAE,OPERATE
-Natalie,Levine,"Senior Real Estate Manager",Real Estate,she/her,NYC,5,Tiger Force,No Team Name,No Code Name,Levine_Natalie.png,NAE,EXPAND
-John,Ferry,"Associate Director, Strategic Finance",FP&A,he/him,NYC,6,Wolf Force,No Team Name,No Code Name,Ferry_John.png,NAE,EXPAND
-Matt,Roth,"Assistant General Manager",Unit Ops,he/him,NYC,2,Tiger Force,No Team Name,No Code Name,Roth_Matt.png,NAE,OPERATE
-Michelle,Nagy,"Area Sales Lead",New Business,she/her,DMV,4,Eagle Force,No Team Name,No Code Name,Nagy_Michelle.png,NAE,EXPAND
-Peter,Feytser,"Principal Product Manager",Product,he/him,NYC,2,Eagle Force,No Team Name,No Code Name,Feytser_Peter.png,NAE,DELIVER
-Fernanda,Garcia,"Member Experience Manager",Unit Ops,she/her,DMV,1,Cobra Force,No Team Name,No Code Name,Garcia_Fernanda.png,NAE,OPERATE
-Mary,Foster,"Assistant General Manager",Unit Ops,she/her,West Palm Beach,5,Cobra Force,No Team Name,No Code Name,Foster_Mary.png,NAE,OPERATE
-Anna,Squires Levine,"Chief Commercial Officer",Corporate,she/her,NYC,7,Wolf Force,No Team Name,No Code Name,Squires Levine_Anna.png,NAE,DIRECT
-Greta,VanOsdol,"Member Experience Manager",Unit Ops,she/her,DMV,8,Cobra Force,No Team Name,No Code Name,VanOsdol_Greta.png,NAE,OPERATE
-Allison,Swift,"Member Experience Manager",Unit Ops,she/her,NYC,3,Eagle Force,No Team Name,No Code Name,Swift_Allison.png,NAE,OPERATE
-Casey,Winslett,"Area Sales Lead",New Business,she/her,NYC,1,Tiger Force,No Team Name,No Code Name,Winslett_Casey.png,NAE,EXPAND
-Tia,Warren,"Member Experience Manager",Unit Ops,she/her,Dallas,2,Wolf Force,No Team Name,No Code Name,Warren_Tia.png,NAC,OPERATE
-Sham,Desai,"Senior Director, Sales",New Business,he/him,NYC,2,Tiger Force,No Team Name,No Code Name,Desai_Sham.png,NAE,EXPAND
-Marty,Long,"Director Of Real Estate Strategy And Operations",Real Estate,he/him,NYC,1,Eagle Force,No Team Name,No Code Name,Long_Marty.png,NAE,EXPAND
-Christopher,Chin,"Member Experience Manager",Unit Ops,he/him,Atlanta,2,No Task Force,No Team Name,No Code Name,Chin_Christopher.png,NAE,OPERATE
-Annie,Chen,"Senior Billing Specialist",Accounting,she/her,Boston,8,Cobra Force,No Team Name,No Code Name,Chen_Annie.png,NAE,ANALYZE
-Saoirse,Kennedy,"Sales Solutions Manager",New Business,she/her,NYC,9,Cobra Force,No Team Name,No Code Name,Kennedy_Saoirse.png,NAE,EXPAND
-John,Leone,"Project Manager D",Construction,he/him,NYC,1,Cobra Force,No Team Name,No Code Name,Leone_John.png,NAE,DELIVER
-Steven,Loesgen,"VP, Assistant Controller",Accounting,he/him,NYC,1,Eagle Force,No Team Name,No Code Name,Loesgen_Steven.png,NAE,ANALYZE
-Preston,Viltz,"Area Sales Lead",New Business,he/him,Los Angeles,1,Tiger Force,No Team Name,No Code Name,Viltz_Preston.png,NAW,EXPAND
-Pammy,Arzu,"Member Experience Manager",Unit Ops,she/her,Houston,1,Wolf Force,No Team Name,No Code Name,Arzu_Pammy.png,NAC,OPERATE
-Nick,Pinson,"IT Associate",IT,he/him,Los Angeles,1,Tiger Force,No Team Name,No Code Name,Pinson_Nick.png,NAW,SERVICE
-Alyssa,Nguyen,"AR & Billing Specialist",Accounting,she/her,Boston,2,Eagle Force,No Team Name,No Code Name,Nguyen_Alyssa.png,NAE,ANALYZE
-Kylie,VanBuren,"Director, Real Estate Transactions",Real Estate,she/her,NYC,2,No Task Force,No Team Name,No Code Name,VanBuren_Kylie.png,NAE,EXPAND
-Mahada,Afrah,"Member Experience Manager",Unit Ops,she/her,DMV,2,Cobra Force,No Team Name,No Code Name,Afrah_Mahada.png,NAE,OPERATE
-Rebecca,Dale,"Associate Director of Design Delivery",Design,she/her,Denver,2,Cobra Force,No Team Name,No Code Name,Dale_Rebecca.png,NAC,DELIVER
+First Name,Last Name,Title,Department,Pronouns,Location,Duration,Task Force,Team Name,Code Name,Image Filename,NAE/NAW,NAC,Employee Num
+Jen,Goncalves De Jesus Raposo,"DIRECTOR, LEARNING, TALENT & CULTURE",Unit Ops,she/her,Tampa,2,Eagle Force,No Team Name,No Code Name,Kelmer_Jen.png,NAE,OPERATE,631
+Rachel,Broder,"Interim Head Of People",People,she/her,NYC,4,Cobra Force,No Team Name,No Code Name,Broder_Rachel.png,NAE,DIRECT,263
+Daniel,du Moulin,"General Manager",Unit Ops,he/him,Atlanta,3,Eagle Force,No Team Name,No Code Name,du Moulin_Daniel.png,NAE,OPERATE,182
+Natalie,Levine,"Senior Real Estate Manager",Real Estate,she/her,NYC,5,Tiger Force,No Team Name,No Code Name,Levine_Natalie.png,NAE,EXPAND,109
+John,Ferry,"Associate Director, Strategic Finance",FP&A,he/him,NYC,6,Wolf Force,No Team Name,No Code Name,Ferry_John.png,NAE,EXPAND,023
+Matt,Roth,"Assistant General Manager",Unit Ops,he/him,NYC,2,Tiger Force,No Team Name,No Code Name,Roth_Matt.png,NAE,OPERATE,199
+Michelle,Nagy,"Area Sales Lead",New Business,she/her,DMV,4,Eagle Force,No Team Name,No Code Name,Nagy_Michelle.png,NAE,EXPAND,384
+Peter,Feytser,"Principal Product Manager",Product,he/him,NYC,2,Eagle Force,No Team Name,No Code Name,Feytser_Peter.png,NAE,DELIVER,102
+Fernanda,Garcia,"Member Experience Manager",Unit Ops,she/her,DMV,1,Cobra Force,No Team Name,No Code Name,Garcia_Fernanda.png,NAE,OPERATE,175
+Mary,Foster,"Assistant General Manager",Unit Ops,she/her,West Palm Beach,5,Cobra Force,No Team Name,No Code Name,Foster_Mary.png,NAE,OPERATE,247
+Anna,Squires Levine,"Chief Commercial Officer",Corporate,she/her,NYC,7,Wolf Force,No Team Name,No Code Name,Squires Levine_Anna.png,NAE,DIRECT,476
+Greta,VanOsdol,"Member Experience Manager",Unit Ops,she/her,DMV,8,Cobra Force,No Team Name,No Code Name,VanOsdol_Greta.png,NAE,OPERATE,875
+Allison,Swift,"Member Experience Manager",Unit Ops,she/her,NYC,3,Eagle Force,No Team Name,No Code Name,Swift_Allison.png,NAE,OPERATE,237
+Casey,Winslett,"Area Sales Lead",New Business,she/her,NYC,1,Tiger Force,No Team Name,No Code Name,Winslett_Casey.png,NAE,EXPAND,406
+Tia,Warren,"Member Experience Manager",Unit Ops,she/her,Dallas,2,Wolf Force,No Team Name,No Code Name,Warren_Tia.png,NAC,OPERATE,127
+Sham,Desai,"Senior Director, Sales",New Business,he/him,NYC,2,Tiger Force,No Team Name,No Code Name,Desai_Sham.png,NAE,EXPAND,537
+Marty,Long,"Director Of Real Estate Strategy And Operations",Real Estate,he/him,NYC,1,Eagle Force,No Team Name,No Code Name,Long_Marty.png,NAE,EXPAND,532
+Christopher,Chin,"Member Experience Manager",Unit Ops,he/him,Atlanta,2,Wolf Force,No Team Name,No Code Name,Chin_Christopher.png,NAE,OPERATE,395
+Annie,Chen,"Senior Billing Specialist",Accounting,she/her,Boston,8,Cobra Force,No Team Name,No Code Name,Chen_Annie.png,NAE,ANALYZE,098
+Saoirse,Kennedy,"Sales Solutions Manager",New Business,she/her,NYC,9,Cobra Force,No Team Name,No Code Name,Kennedy_Saoirse.png,NAE,EXPAND,002
+John,Leone,"Project Manager D",Construction,he/him,NYC,1,Cobra Force,No Team Name,No Code Name,Leone_John.png,NAE,DELIVER,027
+Steven,Loesgen,"VP, Assistant Controller",Accounting,he/him,NYC,1,Eagle Force,No Team Name,No Code Name,Loesgen_Steven.png,NAE,ANALYZE,329
+Preston,Viltz,"Area Sales Lead",New Business,he/him,Los Angeles,1,Tiger Force,No Team Name,No Code Name,Viltz_Preston.png,NAW,EXPAND,678
+Pammy,Arzu,"Member Experience Manager",Unit Ops,she/her,Houston,1,Wolf Force,No Team Name,No Code Name,Arzu_Pammy.png,NAC,OPERATE,327
+Nick,Pinson,"IT Associate",IT,he/him,Los Angeles,1,Tiger Force,No Team Name,No Code Name,Pinson_Nick.png,NAW,SERVICE,687
+Alyssa,Nguyen,"AR & Billing Specialist",Accounting,she/her,Boston,2,Eagle Force,No Team Name,No Code Name,Nguyen_Alyssa.png,NAE,ANALYZE,236
+Kylie,VanBuren,"Director, Real Estate Transactions",Real Estate,she/her,NYC,2,No Task Force,No Team Name,No Code Name,VanBuren_Kylie.png,NAE,EXPAND,635
+Mahada,Afrah,"Member Experience Manager",Unit Ops,she/her,DMV,2,Cobra Force,No Team Name,No Code Name,Afrah_Mahada.png,NAE,OPERATE,568
+Rebecca,Dale,"Associate Director of Design Delivery",Design,she/her,Denver,2,Cobra Force,No Team Name,No Code Name,Dale_Rebecca.png,NAC,DELIVER,287
