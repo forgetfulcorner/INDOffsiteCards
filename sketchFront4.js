@@ -50,12 +50,14 @@ let imagesLoaded = {}; // Track loaded images
 let fillColor;
 // Define colors for each task force
 const taskForceColors = {
-	"COBRA FORCE": "#191919",
-	"TIGER FORCE": "#D53E22",
-	"WOLF FORCE": "#F0F3F7",
-	"EAGLE FORCE": "#2854C5",
-	DEFAULT: "#F1F1F1", // Fallback color
+	COBRA: "#191919",
+	TIGER: "#D53E22",
+	WOLF: "#F0F3F7",
+	EAGLE: "#2854C5",
+	"SCHOOL FOR SPIES": "#C48835",
+	DEFAULT: "#909090", // Fallback color
 };
+//C48835
 
 let table; // p5.Table to hold the CSV data
 
@@ -66,12 +68,12 @@ function preload() {
 	disketMono = loadFont("Disket-Mono-Bold.ttf");
 
 	// Load the CSV data
-	table = loadTable("data3.csv", "csv", "header");
+	table = loadTable("data5.csv", "csv", "header");
 }
 
 function setup() {
 	createCanvas(1200, 900);
-	background("#F1F1F1");
+	// background(255);
 	angleMode(DEGREES);
 	drawGrid();
 	loadData(); // Load data from the CSV
@@ -145,7 +147,8 @@ function checkImagesLoaded() {
 }
 
 function displayCurrentEntry() {
-	background(220); // Clear the canvas
+	clear();
+	// background(220); // Clear the canvas
 	drawGrid(); // Redraw the grid
 
 	// Convert everything to uppercase
@@ -171,17 +174,20 @@ function displayCurrentEntry() {
 	// Determine text color based on task force
 	const currentTaskForce = taskForces[currentIndex].toUpperCase();
 	const textColor =
-		currentTaskForce === "EAGLE FORCE" || currentTaskForce === "COBRA FORCE"
+		currentTaskForce === "EAGLE" ||
+		currentTaskForce === "COBRA" ||
+		currentTaskForce === "TIGER"
 			? "#F1F1F1"
 			: "#000000"; // Default color for other task forces
 
 	// TEXT FOR ROLE AND CITY
 	push();
 	textSize(32);
-	textLeading(33);
+	textLeading(48);
 	textFont(ppNeueMachina);
 	textAlign(CENTER, CENTER);
-	let roleCityFormatted = `${roleText}\n-\n${cityText}`; // Format Role and City
+	// let roleCityFormatted = `${roleText}\n-\n${cityText}`; // Format Role and City
+	let roleCityFormatted = `${roleText}\n${cityText}`; // Format Role and City
 	fill("#000000"); // Set text color
 	text(roleCityFormatted, 25, 25, 1150, 140);
 	pop();
@@ -208,6 +214,7 @@ function displayCurrentEntry() {
 	// TEXT FOR TEAM NAME
 	push();
 	textSize(32);
+	textLeading(33);
 	textFont(ppNeueMachinaUltrabold);
 	textAlign(CENTER, CENTER);
 	fill("#000000"); // Set text color
@@ -260,7 +267,7 @@ function displayCurrentEntry() {
 	let currentRegion = regions[currentIndex];
 	let currentDept = depts[currentIndex];
 	let currentDensity = 0.1 * (parseInt(yearsOfService[currentIndex]) + 2); // Default density
-	let gridRows = parseInt(yearsOfService[currentIndex]) * 2 + 1; // Rows based on years of service + 3
+	let gridRows = (parseInt(yearsOfService[currentIndex]) + 1) * 2 + 1; // Rows based on years of service + 3
 
 	drawShapesGrid(
 		0.5,
@@ -319,6 +326,7 @@ function drawShapesGrid(scale, region, dept, density, fillColor, gridRows) {
 	let regionHeight = 325 + 60 - 2 * buffer;
 
 	if (fillColor === "#F0F3F7") {
+		console.log("yress");
 		fillColor = "#000000";
 	}
 
