@@ -1,7 +1,7 @@
 let saveAllImages = true; // Toggle this variable to enable or disable saving all images
 let saveDelay = 200; // Delay in milliseconds between saves
-let draftMode = false;
-let currentIndex = 265; // Index to track the current entry being displayed
+let draftMode = true;
+let currentIndex = 257; // Index to track the current entry being displayed
 
 function saveAllEntries() {
 	if (saveAllImages) {
@@ -70,7 +70,7 @@ function preload() {
 	disketMono = loadFont("Disket-Mono-Bold.ttf");
 
 	// Load the CSV data
-	table = loadTable("data5.csv", "csv", "header");
+	table = loadTable("dataFinal.csv", "csv", "header");
 }
 
 function setup() {
