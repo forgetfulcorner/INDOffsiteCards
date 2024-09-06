@@ -1,7 +1,7 @@
 let saveAllImages = true; // Toggle this variable to enable or disable saving all images
 let saveDelay = 200; // Delay in milliseconds between saves
-let draftMode = true;
-let currentIndex = 257; // Index to track the current entry being displayed
+let draftMode = false;
+let currentIndex = 0; // Index to track the current entry being displayed
 
 function saveAllEntries() {
 	if (saveAllImages) {
