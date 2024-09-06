@@ -93,7 +93,7 @@ Kwame,Small,CONSTRUCTION PROJECT MANAGER,Construction,he/him,NYC,2,Eagle,Technic
 Yiorgos,Vlahos,General Manager,Unit Ops,he/him,Miami,0,Wolf,Field Operatives,No Code Name,Vlahos_Yiorgos.png,NAE,OPERATE,242,,,02/01/2024,yiorgos.vlahos@industriousoffice.com,Yiorgos Vlahos
 Gaby,Salazar,Member Experience Manager,Unit Ops,she/her,Plano,2,Cobra,Hackers,No Code Name,Salazar_Gaby.png,NAC,OPERATE,112,,,11/08/2021,gsalazar@industriousoffice.com,Gaby Salazar
 Jason,Feirman,"Director of Marketing, Growth",Marketing,he/him,NYC,0,Eagle,Surveillance Officers,No Code Name,Feirman_Jason.png,NAE,EXPAND,267,,,06/17/2024,jason.feirman@industriousoffice.com,Jason Feirman
-Lauren,Funk,"Director of Marketing, Brand and Member Engagement",Marketing,she/her,Chicago,0,Wolf,Surveillance Officers,No Code Name,Funk_Lauren.png,NAC,EXPAND,274,,,07/15/2024,lauren.funk@industriousoffice.com,Lauren Funk
+Lauren,Funk,,Marketing,she/her,,0,Wolf,Surveillance Officers,No Code Name,Funk_Lauren.png,NAC,EXPAND,274,,,07/15/2024,lauren.funk@industriousoffice.com,Lauren Funk
 Johnathan,Ramsamy,"Senior Manager, Global TechOps",IT,he/him,London,3,Wolf,Surveillance Officers,No Code Name,Ramsamy_Johnathan.png,EU,OPERATE,068,,,05/15/2021,jramsamy@industriousoffice.com,Johnathan Ramsamy
 Nick,Crawford,Senior Manager of Design,Design and Product Development,he/him,London,0,Tiger,Masters of Disguise,No Code Name,Crawford_Nick.png,EU,DELIVER,229,,,11/06/2023,nick.crawford@industriousoffice.com,Nick Crawford
 Tom,Redmayne,Head of Europe,Corporate,he/him,London,0,Tiger,Hackers,No Code Name,Redmayne_Tom.png,EU,DIRECT,236,,,01/08/2024,tom.redmayne@industriousoffice.com,Tom Redmayne
@@ -120,7 +120,7 @@ Melissa,Zelko,Member Experience Manager,Unit Ops,she/her,Chandler,1,Cobra,Techni
 Joe,Guy,Product Lead,Product,he/him,NYC,5,Cobra,Hackers,No Code Name,Guy_Joe.png,NAE,DELIVER,032,,,02/04/2019,jguy@industriousoffice.com,Joe Guy
 Rudy,Mangino,Real Estate Manager,Real Estate,he/him,NYC,0,Eagle,Analysts,No Code Name,Mangino_Rudy.png,NAE,EXPAND,265,,,05/29/2024,rudy.mangino@industriousoffice.com,Rudy Mangino
 Bunpa-Henri,Tan,IT Manager,IT,he/him,Montreal,3,Tiger,Technical Services,No Code Name,Tan_Bunpa-Henri.png,EU,OPERATE,074,,,06/01/2021,btan@industriousoffice.com,Bunpa-Henri Tan
-Liam,Wager,Senior Manager Tenant Experience - Commercial Strategy Lead,Tenant Experience/Events (TXM),he/him,NYC,3,Wolf,Analysts,No Code Name,Wager_Liam.png,NAE,SERVICE,084,,,06/07/2021,lwager@industriousoffice.com,Liam Wager
+Liam,Wager,,Tenant Experience/Events (TXM),he/him,,3,Wolf,Analysts,No Code Name,Wager_Liam.png,NAE,SERVICE,084,,,06/07/2021,lwager@industriousoffice.com,Liam Wager
 Christopher,Michael,General Manager,Unit Ops,he/him,DMV,0,Wolf,Masters of Disguise,No Code Name,Michael_Christopher.png,NAE,OPERATE,236,,,01/08/2024,christopher.michael@industriousoffice.com,Christopher Michael 
 Keenan,Johnson,Regional Sales Manager,New Business,he/him,NYC,4,Wolf,Surveillance Officers,No Code Name,Johnson_Keenan.png,NAE,EXPAND,054,,,01/27/2020,kjohnson@industriousoffice.com,Keenan Johnson
 Amy,Schwellenbach,"Manager, Broker Relations",Marketing,she/her,St Petersburg,3,Eagle,Hackers,No Code Name,Schwellenbach_Amy.png,NAE,EXPAND,074,,,06/01/2021,aschwellenbach@industriousoffice.com,Amy Schwellenbach
@@ -168,7 +168,7 @@ Andres,Ramirez,Sales Lead,New Business,he/him,Miami,0,Wolf,Analysts,No Code Name
 Guillaume,Pasquet,Frontend Engineer,Engineering,he/him,Montreal,2,Eagle,Analysts,No Code Name,Pasquet_Guillaume.png,EU,DELIVER,149,,,06/06/2022,gpasquet@industriousoffice.com,Guillaume Pasquet
 Marci,Nawar,Member Experience Manager,Unit Ops,she/her,Walnut Creek,1,Tiger,Masters of Disguise,No Code Name,Nawar_Marci.png,NAW,OPERATE,191,,,02/27/2023,marci.nawar@industriousoffice.com,Marci Nawar
 Suzanne,Nosala,Member Experience Manager,Unit Ops,she/her,Pasadena,0,Wolf,Technical Services,No Code Name,Nosala_Suzanne.png,NAW,OPERATE,269,,,06/24/2024,suzanne.nosala@industriousoffice.com,Suzanne Nosala
-Meeting,Toh,Controller,The Great Room,she/her,Singapore,2,Tiger,Surveillance Officers,No Code Name,Toh_Meeting.png,ASIA,SERVICE,151,,,06/13/2022,mtoh@industriousoffice.com,TOH MEEI TING
+Toh Meei,Ting,Controller,The Great Room,she/her,Singapore,2,Tiger,Surveillance Officers,No Code Name,Ting_Toh Meei.png,ASIA,SERVICE,151,,,06/13/2022,mtoh@industriousoffice.com,TOH MEEI TING
 Nicole,Hernandez,"Hospitality Associate, TXM",Tenant Experience/Events (TXM),she/her,Miami,3,Tiger,Cryptologists,No Code Name,Hernandez_Nicole.png,NAE,SERVICE,104,,,09/27/2021,nicolehernandez@industriousoffice.com,Nicole Hernandez
 Sebastian,Mahecha,Sales Associate,New Business,he/him,Miami,0,Cobra,Hackers,No Code Name,Mahecha_Sebastian.png,NAE,EXPAND,243,,,02/12/2024,sebastian.mahecha@industriousoffice.com,Sebastian Mahecha
 Laura,Filipek-Townsend,Member Experience Manager,Unit Ops,she/her,DMV,2,Eagle,Surveillance Officers,No Code Name,Filipek-Townsend_Laura.png,NAE,OPERATE,172,,,09/26/2022,ltownsend@industriousoffice.com,Laura Filipek-Townsend
@@ -217,7 +217,7 @@ Izzy,Carr,Member Experience Manager,Unit Ops,she/her,Chicago,2,Tiger,Analysts,No
 Connor,Sullivan,Area Sales Lead,New Business,he/him,Miami,1,Wolf,Cryptologists,No Code Name,Sullivan_Connor.png,NAE,EXPAND,219,,,09/18/2023,connor.sullivan@industriousoffice.com,Connor Sullivan 
 Derek,Bastien,TechOps Program Manager,Unit Ops,he/him,Boston,3,Wolf,Masters of Disguise,No Code Name,Bastien_Derek.png,NAE,OPERATE,093,,,07/26/2021,dbastien@industriousoffice.com,Derek Bastien
 Cooper,Donnelly,Area Sales Lead,New Business,he/him,NYC,0,Eagle,Analysts,No Code Name,Donnelly_Cooper.png,NAE,EXPAND,272,,,06/25/2024,cooper.donnelly@industriousoffice.com,Cooper Donnelly
-"Wan Qian ""Q""",Chew,Director of Marketing,The Great Room,she/her,Singapore,2,Eagle,Hackers,No Code Name,Wan Qian_Chew.png,ASIA,SERVICE,151,,,06/13/2022,wqchew@industriousoffice.com,Q
+Q,Chew Wan Qian,Director of Marketing,The Great Room,she/her,Singapore,2,Eagle,Hackers,No Code Name,Wan Qian_Chew.png,ASIA,SERVICE,151,,,06/13/2022,wqchew@industriousoffice.com,Q
 Aurelien,Vitse,Backend Developer,Engineering,he/him,Montreal,3,Eagle,Surveillance Officers,No Code Name,Vitse_Aurelien.png,EU,DELIVER,074,,,06/01/2021,avitse@industriousoffice.com,Aurelien Vitse
 Evan,Fain,"GM, Custom Development And Partnerships",New Ventures & Strategic Partnerships,he/him,NYC,7,Eagle,Technical Services,No Code Name,Fain_Evan.png,NAE,EXPAND,008,,,01/03/2017,evan@industriousoffice.com,Evan Fain
 Tom,O'Boyle,General Manager,Unit Ops,he/him,NYC,1,Eagle,Cryptologists,No Code Name,O'Boyle_Tom.png,NAE,OPERATE,179,,,10/24/2022,toboyle@industriousoffice.com,Tom O'Boyle
@@ -283,5 +283,5 @@ Jasmine,Marshall,Member Experience Manager,Unit Ops,she/her,Austin,1,Wolf,Analys
 Clark,Osborne,Member Experience Manager,Unit Ops,he/him,Nashville,1,Eagle,Masters of Disguise,No Code Name,Osborne_Clark.png,NAC,OPERATE,214,,,08/14/2023,clark.osborne@industriousoffice.com,Clark Osborne
 Olivia,Niesulowski,Area Sales Lead,New Business,she/her,Fort Lauderdale,0,Wolf,Masters of Disguise,No Code Name,Niesulowski_Olivia.png,NAE,EXPAND,282,,,09/03/2024,olivia.niesulowski@industriousoffice.com,Olivia Niesulowski
 Molly,Walsh,Member Experience Manager,Unit Ops,she/her,Miami,0,Tiger,Surveillance Officers,No Code Name,Walsh_Molly.png,NAE,OPERATE,282,,,09/03/2024,Molly.Walsh@industriousoffice.com,Molly Walsh
-Nikki,Horgen,Member Experience Manager,Unit Ops,she/her,Boston,0,Wolf,Field Operatives,No Code Name,Horgen_Nikki.png,NAE,OPERATE,282,,,09/03/2024,nikki.horgen@industriousoffice.com,Nikki Horgen
-Kaya,Esgün,Member Experience Manager,Unit Ops,he/him,Short Hills,1,Cobra,Field Operatives,No Code Name,Esgun_Kaya.png,NAE,OPERATE,221,,,09/25/2023,kaya.esgun@industriousoffice.com,Kaya Esgün
+Nikki,Horgen,Member Experience Manager,Unit Ops,she/her,Boston,0,#N/A,#N/A,No Code Name,Horgen_Nikki.png,NAE,OPERATE,282,,,09/03/2024,nikki.horgen@industriousoffice.com,Nikki Horgen
+Kaya,Esgün,Member Experience Manager,Unit Ops,he/him,Short Hills,1,#N/A,#N/A,No Code Name,Esgun_Kaya.png,NAE,OPERATE,221,,,09/25/2023,kaya.esgun@industriousoffice.com,Kaya Esgün
